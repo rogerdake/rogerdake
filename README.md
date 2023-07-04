@@ -1,4 +1,4 @@
-### Oii! Sou o Roginho 🤝 TMJ 🤝🏽
+### Oii! Sou o Roginho
 
 - 🌱 Trabalhando atualmente com manutenção e suporte
 - 📚 Estudante de desenvolvimento Web

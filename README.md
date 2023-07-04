@@ -1,4 +1,4 @@
-### Oii! Sou o Roger
+### Oii! Sou o Roginho 🤝 TMJ 🤝🏽
 
 - 🔭 Trabalhando atualmente com manutenção e suporte
 - 🌱 Estudando JavaScript

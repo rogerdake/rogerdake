@@ -1,9 +1,10 @@
 ### Oii! Sou o Roginho 🤝 TMJ 🤝🏽
 
-- 🔭 Trabalhando atualmente com manutenção e suporte
-- 🌱 Estudando JavaScript
+- 🌱 Trabalhando atualmente com manutenção e suporte
+- 📚 Estudante de desenvolvimento Web
+- 🔭 Tenho como objetivo ser desenvolvedora fullstack
 - 🎮 Amante de jogos
-- 📺 Streamer Twitch 
+- 📺 Streamer Twitch.
 
 <div align="center">
   
